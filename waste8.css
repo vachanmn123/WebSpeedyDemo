@@ -1,0 +1,22 @@
+/* waste8.css */
+.hero {
+  height: 300px;
+  background: linear-gradient(to right, red, yellow);
+}
+
+.article {
+  padding: 20px;
+}
+
+.section {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.blockquote {
+  font-style: italic;
+}

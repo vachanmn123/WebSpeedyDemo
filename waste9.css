@@ -1,0 +1,25 @@
+/* waste9.css */
+.column {
+  float: left;
+  width: 33.3333%;
+  padding: 10px;
+}
+
+button {
+  border: none;
+  padding: 10px;
+}
+
+.primary {
+  background-color: blue;
+  color: white;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.container-fluid {
+  width: 100%;
+  padding: 0;
+}

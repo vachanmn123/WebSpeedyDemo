@@ -1,0 +1,25 @@
+/* waste10.css */
+.header-section {
+  height: 60px;
+  background-color: #f4f4f4;
+}
+
+.text-center {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.sidebar {
+  width: 200px;
+  float: left;
+}
+
+.notification {
+  background-color: green;
+  padding: 10px;
+  color: white;
+}

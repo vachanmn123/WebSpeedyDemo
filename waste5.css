@@ -1,0 +1,25 @@
+/* waste5.css */
+.banner {
+  height: 100px;
+  background-color: lightgray;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}

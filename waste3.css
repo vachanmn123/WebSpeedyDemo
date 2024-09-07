@@ -1,0 +1,26 @@
+/* waste3.css */
+.box {
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+.panel {
+  display: inline-block;
+  visibility: visible;
+}
+
+.frame {
+  width: 200px;
+  height: 200px;
+}
+
+.caption {
+  text-transform: none;
+  text-align: center;
+}
+
+.list {
+  overflow: hidden;
+  padding: 10px;
+}

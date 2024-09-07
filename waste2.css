@@ -1,0 +1,26 @@
+/* waste2.css */
+.wrapper {
+  background-color: transparent;
+  border: none;
+  position: relative;
+}
+
+.item {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.icon {
+  display: inline-block;
+  margin: 0;
+}
+
+.label {
+  cursor: default;
+  text-align: left;
+}
+
+.block {
+  overflow: hidden;
+  max-height: none;
+}

@@ -1,0 +1,24 @@
+/* waste6.css */
+.footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  padding: 0;
+  list-style: none;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.text-muted {
+  color: #777;
+}
+
+.full-width {
+  width: 100%;
+}

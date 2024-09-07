@@ -1,0 +1,27 @@
+/* waste1.css */
+.container {
+  margin-left: 0;
+  padding: 0;
+  border: none;
+}
+
+.element {
+  display: block;
+  color: blue;
+  width: 100%;
+}
+
+.header {
+  height: 50px;
+  font-size: 16px;
+}
+
+.text {
+  overflow: hidden;
+  visibility: visible;
+}
+
+.button {
+  border: 1px solid black;
+  padding: 5px;
+}
